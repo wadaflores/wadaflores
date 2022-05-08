@@ -1,4 +1,4 @@
-### Hi there, I`m Guada 👋
+### Hi there, I'm Guada (or Lupe) 👋
 
 <!--
 **wadaflores/wadaflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
