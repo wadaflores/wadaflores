@@ -9,11 +9,11 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on a career change!
 <!-- 🌱 I've just finished learning Full Stack Programming-->
 - 👯 I’m looking to collaborate on JS projects
-- <!-- hola -->
+<!-- hola -->
 - 🏁 Let's start working!!!
 <!-- 🤔 I’m looking for help with JS
 - 💬 Ask me about ...-->
-- <!-- hola -->
+<!-- hola -->
 
 - 📫 How to reach me: wadaflores@gmail.com
 <!--  Pronouns: ...-->
