@@ -1,5 +1,5 @@
 ### Hi there, I'm Guada (or Lupe) 👋
-✨ Front-end Developer & UX/UI Designer | Bridging Code & Design ✨
+✨ Frontend Developer & UX/UI Designer | Bridging Code & Design ✨
 
 <!--
 **wadaflores/wadaflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
